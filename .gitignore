@@ -1,0 +1,5 @@
+__pycache__/
+getit-lm_env/
+material/
+vector_db.index/
+metadata.json
